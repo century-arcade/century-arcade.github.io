@@ -1,0 +1,8 @@
+title: Century Arcade
+description: Games and puzzles preserved for their future after copyright.
+url: https://centuryarcade.org
+markdown: kramdown
+defaults:
+  - scope: { path: "" }
+    values: { layout: default }
+exclude: [Makefile, header.html, footer.html, README.md, games/BelowTheRoot/BUILD]

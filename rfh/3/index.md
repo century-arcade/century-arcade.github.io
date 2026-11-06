@@ -1,3 +1,5 @@
+---
+---
 # Century Arcade
 
 ## RFH3: Description of the pre-Arcade experience

@@ -1,3 +1,5 @@
+---
+---
 # Century Arcade
 
 ## The Century Format

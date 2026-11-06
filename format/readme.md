@@ -1,3 +1,5 @@
+---
+---
 # The structure of the README.TXT file
 
 UTF-8 (and preferably 7-bit ascii).

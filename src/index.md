@@ -1,3 +1,5 @@
+---
+---
 # The Century Arcade
 
 ## Technical Information

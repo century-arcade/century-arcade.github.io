@@ -1,3 +1,5 @@
+---
+---
 # Century Arcade
 
 ## Targeted (Virtual) Hardware Platform
