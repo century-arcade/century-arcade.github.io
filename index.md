@@ -8,7 +8,7 @@ Preserving games and puzzles into the future.
 
 ## Crosswords
 
-- [The xd Crossword Corpus](https://centuryarcade.org/xdcorpus/): more than 160,000 published crosswords from over 160 publications, 1913 to today, kept in plain text for research. Access on request.
+- [The xd Crossword Corpus](https://centuryarcade.org/xd/): more than 160,000 published crosswords from over 160 publications, 1913 to today, kept in plain text for research. Access on request.
 - [xdformat](https://github.com/century-arcade/xdformat): a plain-text crossword file format designed for long-term archival.
 
 ## Games
